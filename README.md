@@ -122,3 +122,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 **Vague Prompt**: "Tell me about AI"
 **Improved Prompt**: "What are the key applications of artificial intelligence in the field of natural language processing"
 The improved prompt is more effective because it is clear, specific, and concise, allowing the AI model to contemplate.
+
